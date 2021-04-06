@@ -1,0 +1,25 @@
+{
+  "name": "tidy-up-images",
+  "version": "1.0.0",
+  "description": "Unify the extension of all images in the directory to lowercase. (And .jpeg to .jpg)",
+  "main": "index.js",
+  "bin": {
+    "tidy-up-images": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gozasoro/tidy-up-images"
+  },
+  "bugs": {
+    "url": "https://github.com/gozasoro/tidy-up-images/issues"
+  },
+  "homepage": "https://github.com/gozasoro/tidy-up-images",
+  "keywords": [
+    "image"
+  ],
+  "author": "gozasoro",
+  "license": "MIT"
+}
